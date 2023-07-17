@@ -9,4 +9,4 @@ Saiba como funcionam os Templates e renderizações de página no Django <br>
 Descubra como manter boas práticas de programação em projetos com Django <br>
 Crie suas próprias aplicações web utilizando a linguagem Python
 
-Aulas como instrutor [Guilherme Lira](https://www.linkedin.com/in/guilherme-lima-458925178/)
+Aulas como os instrutores [Guilherme Lira](https://www.linkedin.com/in/guilherme-lima-458925178/) e [Bruno Divino](https://www.linkedin.com/in/brunodivino/)
